@@ -11,6 +11,6 @@
     "dependencies": {
         "@devphase/service": "*",
         "@devphase/cli": "*",
-        "@devphase/sandbox": "*"
+        "@devphase/xsandbox": "*"
     }
 }
